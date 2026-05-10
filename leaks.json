@@ -1,0 +1,22 @@
+[
+ {
+  "RuleID": "test-key",
+  "Description": "Clave de prueba",
+  "StartLine": 1,
+  "EndLine": 1,
+  "StartColumn": 5,
+  "EndColumn": 10,
+  "Match": "SECRET",
+  "Secret": "SECRET",
+  "File": "secrets.env",
+  "SymlinkFile": "",
+  "Commit": "",
+  "Entropy": 2.251629,
+  "Author": "",
+  "Email": "",
+  "Date": "",
+  "Message": "",
+  "Tags": [],
+  "Fingerprint": "secrets.env:test-key:1"
+ }
+]
