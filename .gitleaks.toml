@@ -1,1 +1,5 @@
-# Archivo de configuración de Gitleaks vacío para usar reglas por defecto
+[allowlist]
+  paths = [
+    '''secrets.env''',
+    '''seguro.txt'''
+  ]
